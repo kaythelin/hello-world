@@ -1,0 +1,11 @@
+In the folder "data_for_test" is a zip file. Inside this zip file is a whole bunch of logs folders. All of these folders contain a file ending with .xyt
+
+These .xyt files contain X, Y and TIME for a vehicle (At TIME, the car was at position X, Y)
+
+Your task:
+
+- For each of these logs, calculate and print the average speed the car had
+
+- Plot the trajectory the car had, using matplotlib
+
+- Calculate the traveled distance in each of the logs
