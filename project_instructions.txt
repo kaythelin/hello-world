@@ -4,8 +4,6 @@ These .xyt files contain X, Y and TIME for a vehicle (At TIME, the car was at po
 
 Your task:
 
-- For each of these logs, calculate and print the average speed the car had
+- For each of these logs, calculate and print the average speed the car had  and the traveled distance
 
 - Plot the trajectory the car had, using matplotlib
-
-- Calculate the traveled distance in each of the logs
